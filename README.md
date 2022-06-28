@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KarinaMur
-- 👀 I’m interested in  стажировка программистом на с++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in c++,java,sql software engineering traineeship 
+- 🌱 I’m currently learning math,c++,java,sql .
+-  📫 How to reach me - email: karinamak1993@gmail.com, instagram: karina.murakova.
 
 <!---
 KarinaMur/KarinaMur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
